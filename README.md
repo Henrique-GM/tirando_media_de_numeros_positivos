@@ -1,0 +1,1 @@
+# tirando_media_de_numeros_positivos
